@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/2/fc8e1fdbc0b444a7a76b9e94f5286417/artifacts
+end_time: 1650392664591
+entry_point_name: ''
+experiment_id: '2'
+lifecycle_stage: active
+name: ''
+run_id: fc8e1fdbc0b444a7a76b9e94f5286417
+run_uuid: fc8e1fdbc0b444a7a76b9e94f5286417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1650392658140
+status: 3
+tags: []
+user_id: revanth.adiga
